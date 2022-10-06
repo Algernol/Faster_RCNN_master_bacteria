@@ -1,0 +1,9 @@
+E:\Pythonworkspace\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0001_Color.jpg
+E:\Pythonworkspace\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0006_Color.jpg
+E:\Pythonworkspace\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0013_Color.jpg
+E:\Pythonworkspace\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0015_Color.jpg
+E:\Pythonworkspace\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0031_Color.jpg
+E:\Pythonworkspace\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0044_Color.jpg
+E:\Pythonworkspace\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0048_Color.jpg
+E:\Pythonworkspace\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0084_Color.jpg
+E:\Pythonworkspace\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0091_Color.jpg
